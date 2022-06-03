@@ -1,0 +1,61 @@
+****************************************************************************************
+Controles y diseño
+-control de usuario(poner en publico)
+-datagrid listbox combobox (los archivos los cojes de algun lado archivo o base datos)
+     -datsource=  lista, dataset.
+     -en combobox o listbox, tiene la propiedad displaymember,value member para trabajar con una sola propiedad.
+ejemplo List<Coche> display member es la matricula o la cilindrada.
+
+-menus o tool strip
+
+*****************************************************************************************
+-metodos importantes, ventana.show ventana.showDialog este ultimo te bloquea la pantalla.
+ventana.close();
+todo el conjunto de ventanas, open form, devuelve la lista de ventanas abiertas
+importante.
+
+*****************************************************************************************
+
+combinancion de teclas
+shortcutkeys en propiedades.
+
+*****************************************************************************************
+
+Dialog
+por diseño o por codigo.
+
+****************************************************************************************
+c# if/for/while
+se trabaja con listas
+List<Clase> elemento;
+
+//crear clase coche
+***********************************************************************************
+leer y escribir en archivos, texto, xml, json.
+hacer select insert, delete,upate, bbdd.
+metodos de lista, ordenar, filtrar añadir, borrar.
+for each.
+
+solo usar en este caso
+DataSet, tengo un datagrid donde voy a permitir editar. mirarlo.
+
+**************************************************************************************
+agregar referencias, json, mysql,oracle etc.
+app config. crear cadena de conexion para base de datos.
+
+
+
+
+generar un instalador.
+publicacion, archivos de apliacion, requisitos, actualizaciones, opciones.
+tener en cuenta esos 4 parametros
+
+
+
+
+comentarios, boton derecho encima del proyecto, propiedades.
+triple slash ///
+selecionar en el proyecto, compilacion  que genere archivo documentacion xml
+
+
+
