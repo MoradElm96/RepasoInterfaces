@@ -126,6 +126,7 @@ namespace ControlUsuario
         }
 
 
-        //prueba unitaria a la solucion agregar un nuevo proyecto, de tipo prueba unitaria
+        //prueba unitaria a la solucion agregar un nuevo proyecto, de tipo prueba unitaria,
+       // agregar referencia de proyecto
     }
 }
